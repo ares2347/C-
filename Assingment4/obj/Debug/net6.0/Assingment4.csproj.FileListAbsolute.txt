@@ -1,0 +1,17 @@
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.csproj.AssemblyReference.cache
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.AssemblyInfoInputs.cache
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.AssemblyInfo.cs
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.csproj.CoreCompileInputs.cache
+D:\T2203E\C#\Assingment4\bin\Debug\net6.0\Assingment4.exe
+D:\T2203E\C#\Assingment4\bin\Debug\net6.0\Assingment4.deps.json
+D:\T2203E\C#\Assingment4\bin\Debug\net6.0\Assingment4.runtimeconfig.json
+D:\T2203E\C#\Assingment4\bin\Debug\net6.0\Assingment4.dll
+D:\T2203E\C#\Assingment4\bin\Debug\net6.0\Assingment4.pdb
+D:\T2203E\C#\Assingment4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.csproj.CopyComplete
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.dll
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\refint\Assingment4.dll
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.pdb
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\Assingment4.genruntimeconfig.cache
+D:\T2203E\C#\Assingment4\obj\Debug\net6.0\ref\Assingment4.dll

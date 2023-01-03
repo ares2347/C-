@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6PyY8/+/vBblTPIbsTgJEpkLLJuJgJBgCPXHTwKBkSQnmrQ4TCqFW+RemDuM5jV+A01LdDjx3YF7NysScR9p0g==",
+  "success": true,
+  "projectFilePath": "D:\\T2203E\\C#\\Assingment4\\Assingment4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trant\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
